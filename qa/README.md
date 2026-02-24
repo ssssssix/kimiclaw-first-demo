@@ -1,15 +1,14 @@
 # Q&A Collection
 
-Curated questions and answers from daily conversations.
+精选 AI 相关问答。
 
 ---
 
-## Categories
+## 分类
 
-- [AI Tools & Products](./ai-tools.md)
-- [Career & Growth](./career.md)
-- [Technical Deep Dives](./technical.md)
+- [AI Tools & Products](./ai-tools.md) - AI 工具和产品
+- [AI Models & Research](./technical.md) - AI 模型与研究进展
 
 ---
 
-*Questions are anonymized and curated for learning purposes*
+*仅记录 AI 技术相关内容*
