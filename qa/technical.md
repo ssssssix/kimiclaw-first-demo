@@ -1,23 +1,32 @@
 # Technical Deep Dives
 
-Technical concepts, architecture, and implementation details.
+技术概念、架构和实现细节的深入解析。
 
 ---
 
-## OCR Technology
+## AI 模型发展
 
-**Q**: 解释一下 OCR 的意思和应用场景  
+**Q**: OpenAI 目前有哪些模型？最新的是 GPT-4o 吗？  
 **A**:
-- **OCR** = Optical Character Recognition，光学字符识别
-- **原理**：检测文字区域 → 识别文字 → 后处理修正
-- **应用场景**：
-  - 门票后台录入（供应商海报提取信息）
-  - 发票/凭证处理
-  - 用户上传内容识别
-- **常用工具**：PaddleOCR、Tesseract、阿里云 OCR
 
-**Date**: 2026-02-24
+### 当前主力模型（2026年2月）
+
+| 模型 | 定位 | 说明 |
+|------|------|------|
+| GPT-5.2 Instant | 主力对话模型 | 最新版，响应更快更自然 |
+| GPT-5.2 Thinking | 推理模型 | 可调思考深度，适合复杂问题 |
+| GPT-5.3-Codex | 最强编程模型 | 代码生成+推理合一 |
+| GPT-5.1-Codex-Max | 长程编程项目 | 支持多上下文窗口 |
+
+### 已淘汰的旧模型
+
+⚠️ 2026年2月13日已停用：
+- GPT-4o
+- GPT-4.1 / GPT-4.1 mini
+- OpenAI o4-mini
+
+**日期**: 2026-02-24
 
 ---
 
-*More Q&A coming soon...*
+*更多问答持续更新...*

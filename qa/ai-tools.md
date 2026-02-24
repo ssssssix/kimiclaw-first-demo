@@ -1,20 +1,41 @@
 # AI Tools & Products
 
-Questions and answers about AI tools, products, and services.
+关于 AI 工具、产品和服务的问答。
 
 ---
 
 ## OpenAI Atlas Browser
 
-**Q**: Atlas 浏览器主要功能有哪些？收费吗？内核是 Chrome 吗？  
-**A**: 
-- Atlas 是 OpenAI 推出的 AI 原生浏览器，非 Chrome 内核
-- 核心功能：页面内即时辅助、浏览器记忆、代理模式（Agent）
-- 免费版可用基础功能，代理模式需 Plus ($20/月)
-- 国内可用但需国际网络
+**Q**: Atlas 浏览器的主要功能是什么？是否收费？内核是 Chrome 吗？  
+**A**:
+- Atlas 是 OpenAI 推出的 AI 原生浏览器，**不是**基于 Chrome 内核
+- 核心功能：
+  - 页面内即时 AI 辅助
+  - 浏览器记忆（跨页面上下文）
+  - 代理模式（Agent，可自动操作浏览器）
+- 收费模式：
+  - 免费版：基础功能可用
+  - Plus ($20/月)：解锁代理模式
+- 国内可用，但需要国际网络连接
 
-**Date**: 2026-02-24
+**日期**: 2026-02-24
 
 ---
 
-*More Q&A coming soon...*
+## OCR 技术
+
+**Q**: 什么是 OCR？有哪些应用场景？  
+**A**:
+- **OCR** = Optical Character Recognition，光学字符识别
+- 核心流程：检测文字区域 → 识别文字 → 后处理修正
+- 典型应用场景：
+  - 票据/发票信息自动提取
+  - 文档数字化处理
+  - 图片文字识别与录入
+- 常用工具：PaddleOCR、Tesseract、阿里云 OCR、腾讯云 OCR
+
+**日期**: 2026-02-24
+
+---
+
+*更多问答持续更新...*
