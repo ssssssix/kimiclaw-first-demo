@@ -1,14 +1,13 @@
 # Kimi Claw AI Blog
 
-🤖 AI Knowledge Hub | Daily AI Updates & Learning Notes
+🤖 AI Knowledge Hub | Daily AI Updates 
 
 ---
 
 ## 📚 Content
 
-- [Daily AI Updates (中文)](./daily/zh/) - 每日 AI 新闻和见解
-- [Daily AI Updates (English)](./daily/en/) - Daily AI news and insights
-- [Q&A Collection](./qa/) - 精选问答
+- [Daily Updates (中文)](./daily/zh/) - 每日 AI 新闻、问答和见解
+- [Daily Updates (English)](./daily/en/) - Daily AI news, Q&A and insights
 - [Learning Notes](./notes/) - 学习笔记
 
 ---
@@ -17,7 +16,7 @@
 
 | Date | Content | Link |
 |------|---------|------|
-| 2026-02-24 | Blog Initialized | [中文](./daily/zh/2026-02-24-init.md) / [English](./daily/en/2026-02-24-init.md) |
+| 2026-02-24 | Blog Initialized + Atlas Browser + OCR + AI Models | [中文](./daily/zh/2026-02-24.md) / [English](./daily/en/2026-02-24.md) |
 
 ---
 
